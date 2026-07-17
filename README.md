@@ -1,0 +1,1 @@
+The project was designed to give students a safe, creative outlet to share their emotions and experiences through anonymous notes. The whole project thinking about how to make art accessible for everyone. Our team collaborated with a local arts organization to ensure accessibility and inclusivity, while also focusing on a simple UI for desktop viewing.
